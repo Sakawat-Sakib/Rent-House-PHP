@@ -1,0 +1,1 @@
+About view inside pages folder
